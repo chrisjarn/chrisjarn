@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisjarn
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning VUE-JS, Tailwind CSS, Node JS, Firebase,
+- 🌱 I’m currently learning Vue3, Tailwind CSS, Node JS, Firebase,
 - 📫 Reach me @ christiaanuttam@outlook.com
 
 <!---
