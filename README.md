@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisjarn
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Vue3, Tailwind CSS, Node JS, Firebase, Supabase
+- 🌱 Vue3, Tailwind CSS, Node JS, Firebase, Supabase
 
 <!---
 chrisjarn/chrisjarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
