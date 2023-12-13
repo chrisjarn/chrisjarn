@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrisjarn
-- 👀 I’m interested in front-end development
+- 👀 Front-end development
 - 🌱 Vue3, Tailwind CSS, Node JS, Firebase, Supabase
 
 <!---
